@@ -1,0 +1,75 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #fdeae3;
+}
+
+.title {
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.searchContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.searchInput {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  flex: 1;
+  max-width: 300px;
+}
+
+.addButton {
+  padding: 10px 20px;
+  margin-left: 10px;
+  border-radius: 5px;
+  background-color: #f6cac9;
+  border: none;
+  cursor: pointer;
+}
+
+.itemsContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  justify-content: center;
+  max-width: 960px; /* Ensure 3 boxes per row */
+  margin: 0 auto; /* Center the grid */
+}
+
+.itemCard {
+  background-color: #e1c4f7;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.quantityContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.quantityButton {
+  padding: 5px 10px;
+  margin: 0 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.deleteButton {
+  margin-top: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #f6cac9;
+  border: none;
+  cursor: pointer;
+}
