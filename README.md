@@ -5,4 +5,4 @@
 [![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Figma](https://img.shields.io/badge/-Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://figma.com/)
 
-Pantry tracker for effortles nutrition tracking
+Pantry tracker for effortless nutrition tracking
